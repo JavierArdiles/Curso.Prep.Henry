@@ -1,0 +1,5 @@
+Variable: Una variable es un ente creado por el programador en el cual se almacena información para ser utilizada luego en diferentes partes del programa. Por ejemplo, una variable puede ser un número, una frase, una palabra o combinación de ambas.
+String. Un string es una variable que sólo almacena texto. Todo el texto que almacena el string se escribe entre comillas y puede contener cualquier cantidad de caracteres de cualquier tipo.
+Funciones: Una función es una acción que define el programador para que ejecute el programa. Puede recibir argumentos que serán manipulados por la función cuando esta se ejecute. Siempre la función debe devolver algún valor (numérico, de texto, matriz, etc.) por lo que al final de la función siempre hay que poner return seguido de lo que necesitamos que devuelva.
+Declaraciones if: Es una declaración condicional. if debe seguir siempre de la condición a cumplir entre paréntesis y luego llaves.
+Valores booleanos: Los valores booleanos son valores de verdad (true) o falsedad (false) ya establecidos por el interpretador. También se los puede usar como devolución de una función.
