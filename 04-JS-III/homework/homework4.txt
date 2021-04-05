@@ -1,0 +1,1 @@
+Array: Un array es una lista ordenada de elementos. Estos elementos pueden ser números, strings, objetos o más listas. Las combinaciones son infinitas y dependen de la necesidad del programador. Un array es una variable, por lo tanto se la define como var nombreDelArray = [] ( o let, o const). Dentro de los corchetes, y separados por comas, van los elementos del array.
