@@ -1,0 +1,22 @@
+img {
+    float: right;
+    margin: 0 0 1em 1em;
+}
+
+body {
+    font-family: Arial;
+    font-size: 15pt;
+    color: white;
+    background: black;
+}
+
+.pClass {
+    font-size: x-large;
+}
+
+#henry {
+    float: left;
+    margin: 0 1em 1em 0;
+    width: 340px;
+    height: 60px;
+}
