@@ -1,4 +1,4 @@
-img {
+#yo {
     float: right;
     margin: 0 0 1em 1em;
 }
@@ -29,4 +29,14 @@ h1 {
 
 a {
     color:rgb(233, 233, 14);
+}
+
+.imga {
+    width: 26px;
+    height: 21px;
+}
+
+#linkedin {
+    width: 28px;
+    height: 28px;
 }
